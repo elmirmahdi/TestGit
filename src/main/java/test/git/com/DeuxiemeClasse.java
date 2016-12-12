@@ -7,4 +7,7 @@ public class DeuxiemeClasse {
 	/*
 	 * commentaire n° 2
 	 */
+	/**
+	 * commentaire n ° 3
+	 */
 }
