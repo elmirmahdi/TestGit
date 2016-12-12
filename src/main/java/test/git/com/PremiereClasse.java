@@ -13,4 +13,7 @@ public class PremiereClasse {
 	/**
 	 * commentaire n ° 4
 	 */
+	/**
+	 * commentaire n° 5
+	 */
 }
