@@ -10,4 +10,7 @@ public class DeuxiemeClasse {
 	/**
 	 * commentaire n ° 5
 	 */
+	/**
+	 * commentaire n ° 6
+	 */
 }
