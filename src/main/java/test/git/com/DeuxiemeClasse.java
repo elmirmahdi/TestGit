@@ -11,6 +11,6 @@ public class DeuxiemeClasse {
 	 * commentaire n ° 5
 	 */
 	/**
-	 * commentaire n ° 688888888888888888888888
+	 * commentaire n ° 69999999999999999999999
 	 */
 }
