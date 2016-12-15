@@ -4,4 +4,7 @@ public class TroisiemeClasse {
 	/**
 	 * commentaire
 	 */
+	/**
+	 * example
+	 */
 }
